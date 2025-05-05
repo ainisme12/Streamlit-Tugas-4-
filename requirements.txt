@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+requests
+matplotlib
+altair
+plotly
+Pillow
+PyPDF2
